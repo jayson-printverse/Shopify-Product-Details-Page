@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@shopify/polaris": "latest",
+    "@shopify/polaris-icons": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-loading-skeleton": "3.4.0",
+    "@shopify/polaris-tokens": "9.4.0"
+  }
+}
